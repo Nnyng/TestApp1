@@ -30,7 +30,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="0.5"
-            android:src="@drawable/ic_menu_safety233" />
+            android:src="@drawable/frame_mainmenu" />
 
     </LinearLayout>
 
@@ -46,14 +46,14 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="0.5"
-            android:src="@drawable/ic_menu_safety233" />
+            android:src="@drawable/frame_mainmenu" />
 
         <ImageView
             android:id="@+id/fruit"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="0.5"
-            android:src="@drawable/ic_menu_safety233" />
+            android:src="@drawable/frame_mainmenu" />
     </LinearLayout>
 
     <LinearLayout
@@ -68,14 +68,14 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="0.5"
-            android:src="@drawable/ic_menu_safety233" />
+            android:src="@drawable/frame_mainmenu" />
 
         <ImageView
             android:id="@+id/mouth"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="0.5"
-            android:src="@drawable/ic_menu_safety233" />
+            android:src="@drawable/frame_mainmenu" />
     </LinearLayout>
 
     <LinearLayout
@@ -90,14 +90,14 @@
             android:layout_width="wrap_content"
             android:layout_height="156dp"
             android:layout_weight="0.5"
-            android:src="@drawable/ic_menu_safety233" />
+            android:src="@drawable/frame_mainmenu" />
 
         <ImageView
             android:id="@+id/excrete1"
             android:layout_width="wrap_content"
             android:layout_height="156dp"
             android:layout_weight="0.5"
-            android:src="@drawable/ic_menu_safety233" />
+            android:src="@drawable/frame_mainmenu" />
     </LinearLayout>
 
     <LinearLayout
@@ -112,14 +112,14 @@
             android:layout_width="wrap_content"
             android:layout_height="156dp"
             android:layout_weight="0.5"
-            android:src="@drawable/ic_menu_safety233" />
+            android:src="@drawable/frame_mainmenu" />
 
         <ImageView
             android:id="@+id/excrete11"
             android:layout_width="wrap_content"
             android:layout_height="156dp"
             android:layout_weight="0.5"
-            android:src="@drawable/ic_menu_safety233" />
+            android:src="@drawable/frame_mainmenu" />
     </LinearLayout>
 
     <LinearLayout
@@ -134,14 +134,14 @@
             android:layout_width="wrap_content"
             android:layout_height="156dp"
             android:layout_weight="0.5"
-            android:src="@drawable/ic_menu_safety233" />
+            android:src="@drawable/frame_mainmenu" />
 
         <ImageView
             android:id="@+id/excrete"
             android:layout_width="wrap_content"
             android:layout_height="156dp"
             android:layout_weight="0.5"
-            android:src="@drawable/ic_menu_safety233" />
+            android:src="@drawable/frame_mainmenu" />
     </LinearLayout>
     <Button
         android:layout_width="match_parent"

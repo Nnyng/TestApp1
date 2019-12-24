@@ -21,6 +21,7 @@ public class Main_Menu extends AppCompatActivity {
             public void onClick(View v) {
                 Intent intent = new Intent(Main_Menu.this,Fn_Safety.class);
                 startActivity(intent);
+
             }
         });
 

@@ -49,7 +49,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_toRightOf="@+id/im_userLogin"
-                android:hint="ชื่อผู้ใช้งาน"
+                android:hint="ชื่อผู้ใช้งาน"
                 android:layout_marginLeft="110dp"
                 android:textColorHint="@android:color/black"
                 android:textAppearance="@style/MyFont"
@@ -123,6 +123,13 @@
         android:textColor="@color/colorWhite"
         android:textSize="26dp"/>
 <!--        android:textStyle="bold"/>-->
+
+    <ProgressBar
+        android:id="@+id/pbbar"
+        android:layout_marginTop="35dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center" />
 
 
 </LinearLayout>
